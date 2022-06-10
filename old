@@ -1,0 +1,1031 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt" lang="pt" xmlns:o="urn:schemas-microsoft-com:office:office" >
+
+<!--[if gte mso 9]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="format-detection" content="date=no">
+  <meta name="format-detection" content="address=no">
+  <meta name="format-detection" content="email=no">
+
+  <!-- Usar o mesmo texto do Subject no TITLE -->
+  <title>Tok&amp;Stok apresenta: Urbano Vintage</title>
+
+  <link rel="shortcut icon" type="image/png"
+    href="https://tokstok.vteximg.com.br/arquivos/favicon-32x32.png?v=636686573210430000" sizes="32x32">
+
+  <link rel="shortcut icon" type="image/png"
+    href="https://tokstok.vteximg.com.br/arquivos/favicon-16x16.png?v=636686573200430000" sizes="16x16">
+
+  <!-- Font Family -->
+  <style type="text/css">
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+    @font-face {
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 400;
+      src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu72xKOzY.woff2) format('woff2');
+      mso-generic-font-family: swiss;
+      mso-font-alt: 'Arial';
+    }
+  </style>
+
+  <!-- /Font Family -->
+
+  <!-- iDevice Links -->
+
+  <style type="text/css">
+    a[href^=tel] {
+      color: #000000;
+      text-decoration: none;
+      cursor: pointer;
+    }
+
+    a[x-apple-data-detectors] {
+      color: inherit !important;
+      text-decoration: none !important;
+      font-size: inherit !important;
+      font-family: inherit !important;
+      font-weight: inherit !important;
+      line-height: inherit !important;
+    }
+  </style>
+  <!-- Fim iDevice Links -->
+
+  <!-- Gmail Links -->
+
+  <style type="text/css">
+    u+#body a {
+      color: inherit !important;
+      text-decoration: none !important;
+      font-size: inherit !important;
+      font-family: inherit !important;
+      font-weight: inherit !important;
+      line-height: inherit !important;
+    }
+  </style>
+
+  <style type="text/css">
+    /* MS / Apple Mail Font Size Hack */
+    body {
+      -ms-text-size-adjust: 100%;
+      -webkit-text-size-adjust:100%;
+    }
+
+    a {
+      text-decoration: none;
+      color: inherit;
+    }
+
+    /* Outlook.com Line Height Hack */
+    .ExternalClass * {
+      line-height: 100%;
+    }
+
+    .ExternalClass,
+    .ExternalClass p,
+    .ExternalClass span,
+    .ExternalClass font,
+    .ExternalClass td,
+    .ExternalClass div {
+      line-height: 100%;
+    }
+
+    /* Yahoo Web Mail Table Margin Hack */
+    table {
+      margin: 0 auto !important;
+      border-collapse: collapse;
+      mso-table-lspace: 0pt !important;
+      mso-table-rspace: 0pt !important;
+      background-color: #ffffff;
+    }
+
+    img{
+        -ms-interpolation-mode:bicubic;
+    }
+
+    .desktop-hide {
+      display: none !important;
+    }
+
+    h2, h3 {
+      color:#535435 !important;
+    }
+
+    table,
+    tr,
+    td,
+    p {
+      font-family: 'Poiret One', Arial, 'Helvetica Neue', 'Helvetica', sans-serif;
+    }
+
+    .footer__icon:hover {
+      transform: scale(1.2);
+      transition: cubic-bezier(0.075, 0.82, 0.165, 1) 1s;
+    }
+
+    .footer__icon {
+      transition: cubic-bezier(0.075, 0.82, 0.165, 1) .5s;
+    }
+
+    .button__cta--small {
+      background-color: white;
+      font: inherit;
+      border: none;
+      font-weight: 700;
+      color: #be531c;
+      padding: 0.5em 1em 0.5em;
+      text-transform: uppercase;
+      font-family: Roboto, Arial, Helvetica, sans-serif;
+    }
+
+    .button__cta--med {
+      background-color: white;
+      font: inherit;
+      border: none;
+      font-weight: 700;
+      color: #be531c;
+      padding: 0.5em 1em 0.5em;
+      text-transform: uppercase;
+      font-size: 18px;
+      font-family: Roboto, Arial, Helvetica, sans-serif;
+    }
+
+    table .wrapper {
+      width: 700px;
+    }
+
+    .nomes {
+      font-size: 24px;
+    }
+
+    @media only screen and (max-width: 480px) {
+      .nomes {
+        font-size: 34px;
+      }
+
+      .button__cta--med {
+        font-size: 24px;
+      }
+
+      span>small {
+        font-size: 22px !important;
+      }
+
+      .image__left {
+        width: 100% !important;
+      }
+
+      table.wrapper {
+        width: 100% !important;
+        min-width: 0px !important;
+        padding: 0px;
+      }
+
+      img.block-img {
+        width: 100% !important;
+        height: auto !important;
+        margin: 0;
+        -ms-interpolation-mode: bicubic;
+      }
+
+      .logo {
+        width: 35% !important;
+        max-width: 198px;
+      }
+
+      .mobile-hide {
+        display: none;
+      }
+
+      .aumentar {
+        width: 100% !important;
+      }
+
+      .aumentar22 {
+        font-size: 22px !important;
+      }
+
+      .aumentar32 {
+        font-size: 32px !important;
+      }
+
+      .aumentar44 {
+        font-size: 40px !important;
+      }
+
+      .inteiro {
+        width: 100% !important;
+        display: block !important;
+      }
+
+      .desktop-hide {
+        display: block !important;
+      }
+
+      .button__cta--small {
+        font-size: 18px !important;
+      }
+
+    }
+  </style>
+
+  <!--[if gte mso 9]>
+    <style type="text/css">
+      a {
+        text-decoration: none !important;
+        color: inherit !important;
+      }
+
+      h2,h3,h4,h5,h6 {
+        color: #535435 !important;
+      }
+    </style>
+<![endif]-->
+
+</head>
+
+<body
+  style="margin: 0px; padding: 0px; background: #FFFFFF; font-family: 'Roboto', Arial, 'Helvetica Neue', 'Helvetica', sans-serif; color: #000000;">
+  <table width="700" align="center" cellpadding="0" cellspacing="0" border="0" class="wrapper"
+    style="min-width: 700px;">
+    <tbody>
+      <tr>
+        <td>
+          <table width="100%" cellpadding="0" cellspacing="0" border="0">
+            <tbody>
+              <tr valign="middle">
+                <td align="left">
+                  <!-- SNIPPET-->
+                  <a href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDRWY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=c2s83c5tv8mtfmhu5ce21ci4871arhic0hltl4lq531mpgo5el40"
+                    rilt="snippet" rilc="snippet"
+                    style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; text-decoration: none; mso-hide: all;"
+                    target="_blank">
+                    <font face="sans-serif">Nova Tendência Urbano Vintage</font>
+                  </a>
+                </td>
+              </tr>
+              <tr valign="middle">
+                <td><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDRWY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=c2s83c5tv8mtfmhu5ce21ci4871arhic0hltl4lq531mpgo5el40"
+                    rilt="snippet" rilc="snippet"
+                    style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; text-decoration: none; mso-hide: all;">
+                    <font face="sans-serif" target="_blank">‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+                      ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+                      ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌</font>
+                  </a></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <table width="100%" cellpadding="0" cellspacing="0" border="0">
+            <tbody>
+              <tr>
+                <td align="left" valign="bottom"><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDRAY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=jl1gi3qp86ken0kda74d7ic8valrcrgtvvh5tlai72rj8d6fm1rg"
+                    target="_blank"
+                    style="color: #0a775a; font-size: 12px; text-decoration: underline; padding-left: 10px;"
+                    class="reduzir" rilt="versao_online" rilc="versao_online">
+                    <font face="sans-serif"
+                      style="font-family: 'Roboto', Arial, 'Helvetica Neue', 'Helvetica', sans-serif;">Ver no navegador
+                    </font>
+                  </a></td>
+                <td align="center"></td>
+                <td align="right" valign="bottom"><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDRCY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=chdc3ia5dmi66a0qhnt215rkb8retukvtprpvks35rm0j3i2p6j0"
+                    target="_blank"
+                    style="color: #777777; font-size: 12px; text-decoration: underline; padding-right: 10px;"
+                    class="reduzir" rilt="descadastre_se" rilc="descadastre_se">
+                    <font face="sans-serif"
+                      style="font-family: 'Roboto', Arial, 'Helvetica Neue', 'Helvetica', sans-serif;">Descadastrar
+                    </font>
+                  </a></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table width="100%" cellpadding="0" cellspacing="0" border="0">
+            <tbody>
+              <tr width="100%" height="10" class="mobile-hide">
+                <td></td>
+              </tr>
+              <tr width="100%" height="50" align="center">
+                <td><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDSRY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=mq5cf9o2dgh1mndlna7jd6n37r6ch3slh73r2oac2osg87s6oevg"
+                    rilt="logotipo" rilc="logotipo" target="_blank"><img
+                      src="https://static.cdn.responsys.net/i5/responsysimages/tokstok/contentlibrary/fixo/padrao/logo_tokstok.png"
+                      alt="Tok&amp;Stok" width="25%" height="auto" class="logo"></a></td>
+              </tr>
+              <tr width="100%" height="10" class="mobile-hide">
+                <td></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table width="100%" cellpadding="0" cellspacing="0" style="border-bottom: 1px solid #dcdcdc;">
+            <tbody>
+              <tr width="100%" height="30" valign="top" align="center">
+                <td width="3%" height="auto"></td>
+                <td><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDSTY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=7r1cgki0o0ipbhb23goagkqt2pf50q18f1po6cf8b8nr7ajdkh5g"
+                    rilt="moveis" rilc="moveis" style="font-size:15px; color: #000000; text-decoration: none;"
+                    target="_blank">
+                    <font face="sans-serif"
+                      style="font-family: 'Roboto', Arial, 'Helvetica Neue', 'Helvetica', sans-serif;"
+                      class="reduzir13">Móveis</font>
+                  </a></td>
+                <td><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDSWY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=ct4nd9rr16do2022n823f7c3j5p91gqlucfemuu92jr7gko1no8g"
+                    rilt="acessorios" rilc="acessorios" style="font-size:15px; color: #000000; text-decoration: none;"
+                    target="_blank">
+                    <font face="sans-serif"
+                      style="font-family: 'Roboto', Arial, 'Helvetica Neue', 'Helvetica', sans-serif;"
+                      class="reduzir13">Acessórios</font>
+                  </a></td>
+                <td class="mobile-hide"><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDSAY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=cdmg88o5qqn8fpfbhpg8d33uomi1sjdsjnp9g2k7pdll2glcv8jg"
+                    rilt="ambientes" rilc="ambientes" style="font-size:15px; color: #000000; text-decoration: none;"
+                    target="_blank">
+                    <font style="font-family: 'Roboto', Arial, 'Helvetica Neue', 'Helvetica', sans-serif;"
+                      face="sans-serif" class="reduzir13">Ambientes</font>
+                  </a></td>
+                <td class="mobile-hide"><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDSCY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=eo6sr1vu1glsbbsbpl91r5f6p6nndgajqedno7cmh6t4qhh5r2f0"
+                    rilt="inspire-se" rilc="inspire-se" style="font-size:15px; color: #000000; text-decoration: none;"
+                    target="_blank">
+                    <font style="font-family: 'Roboto', Arial, 'Helvetica Neue', 'Helvetica', sans-serif;"
+                      face="sans-serif">Inspiração</font>
+                  </a></td>
+                <td><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDTRY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=lg55as7d0fvl8b2sjgranmg0btv0q6gce1gkb8icr0h7nkd5sim0"
+                    rilt="novidades" rilc="novidades" style="font-size:15px; color: #0a775a; text-decoration: none;"
+                    target="_blank">
+                    <font style="font-family: 'Roboto', Arial, 'Helvetica Neue', 'Helvetica', sans-serif;"
+                      face="sans-serif" class="reduzir13">Novidades</font>
+                  </a></td>
+                <td class="mobile-hide"><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDTTY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=7uba6383dibclsugnt97r8k36smk9mvjjenj8g4m2i7v8qamghd0"
+                    rilt="tokstories" rilc="tokstories" style="font-size:15px; color: #000000; text-decoration: none;"
+                    target="_blank">
+                    <font style="font-family: 'Roboto', Arial, 'Helvetica Neue', 'Helvetica', sans-serif;"
+                      face="sans-serif" class="reduzir13">TokStories</font>
+                  </a></td>
+                <td><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDTWY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=bg7qbj4qkadvbs7nmfvrd9qj29nmelpoigncgr4bnlemdl52hlt0"
+                    rilt="ponto_vermelho" rilc="ponto_vermelho"
+                    style="font-size:15px; color: #000000; text-decoration: none;" target="_blank">
+                    <font style="font-family: 'Roboto', Arial, 'Helvetica Neue', 'Helvetica', sans-serif;"
+                      face="sans-serif" class="reduzir13">Promoções</font>
+                  </a></td>
+                <td width="3%" height="auto"></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+
+      <!-- CONTEÚRDO -->
+      <tr>
+        <td>
+          <table width="100%" border="0" cellpadding="0" cellspacing="0" aria-label="Nova tendência urbano vintage" align="center">
+            <tr>
+              <td width="50%"><a href="https://www.tokstok.com.br/inspire-se/tendencias/urbano-vintage" target="_blank">
+                  <img src="https://raw.githubusercontent.com/ga-fleury/tokstokcdn/main/tokstok.gif"
+                    alt="Tendências Tok&amp;Stok" border="0" align="absmiddle" style="display:block; font-size:1;"
+                    class="image__left"></a>
+              </td>
+              <td colspan="2" width="50%" height="auto"
+                style="background-color:#be531c;padding: 20px;margin:10px; color:white;" valign="bottom">
+                <a href="https://www.tokstok.com.br/inspire-se/tendencias/urbano-vintage" target="_blank"
+                  style="text-decoration:none;color:inherit">
+                  <h1 style="color:white;font-weight:400;margin-bottom:8px"><small style="font-size:22px;font-family: Roboto;">conheça o
+                      estilo</small> <br>
+                    <bold style="font-weight: 700;text-decoration: underline;" class="aumentar44">Urbano Vintage</bold>
+                  </h1>
+                  <p style="margin-top:0px;margin-bottom:20px; font-family: 'Roboto', Arial, 'Helvetica Neue', 'Helvetica', sans-serif;font-weight:300;"
+                    class="aumentar22"> inspirado nas décadas mais expressivas da produção de móveis modernos</p>
+                  <button class="button__cta--small"
+                    style="margin-bottom: 50px; background-color: white !important;">explore essa tendência</button>
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="3">
+                <a href="https://www.tokstok.com.br/inspire-se/tendencias/urbano-vintage" target="_blank">
+                  <img src="https://raw.githubusercontent.com/ga-fleury/tokstokcdn/main/quartovintage.jpg" width="700" height="258" alt="">
+                </a>
+              </td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td colspan="3" style="padding:30px 0px; padding-bottom: 0;" align="center">
+                <h2 style="font-weight: 300; color:#535435;font-family: Roboto;margin-top:10px;" class="aumentar32"><span
+                    style="font-weight:500;font-family: 'Roboto', Arial, 'Helvetica Neue', 'Helvetica', sans-serif;">Multifuncionalidade e cores sóbrias</span> são
+                  as marcas dessa
+                  tendência</h2>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="3">
+                <table width="100%" border="0" cellpadding="0" cellspacing="0" aria-label="produtos da tendencia">
+                  <tr align="center" valign="center" style="font-weight: bold;">
+                    <td style="padding-bottom:10px" width="33%">
+                      <a href="https://www.tokstok.com.br/banco-medio-preto-eucalipto-fabric/p" class="nomes"
+                        target="_blank"><span>fabric<br> <small
+                            style="font-size:18px;font-weight:400;font-family: Roboto;">banco</small></span></a>
+                    </td>
+                    <td style="padding-bottom:10px" width="33%">
+                      <a href="https://www.tokstok.com.br/banco-medio-preto-eucalipto-fabric/p" class="nomes"
+                        target="_blank"><span>sow <br> <small
+                            style="font-size:18px;font-weight:400;font-family: Roboto;">carrinho/floreira</small></span>
+                      </a>
+                    </td>
+                    <td style="padding-bottom:10px" width="33%">
+                      <a href="https://www.tokstok.com.br/banco-medio-preto-eucalipto-fabric/p" class="nomes"
+                        target="_blank"><span>lin <br> <small
+                            style="font-size:18px;font-weight:400;font-family: Roboto;">buffet</small></span>
+                      </a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <table border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td width="233px" href="https://www.tokstok.com.br/sofa-2-lugares-couro-nozes-viscount/p"
+                          target="_blank" style="text-decoration: none; width:233px">
+                          <img src="https://raw.githubusercontent.com/ga-fleury/tokstokcdn/main/bancofundo2.png"
+                            alt="banco quadrado em metal e madeira" border="0"
+                            style="display:block; font-size:1;margin:none;width: 233px;">
+                          </a>
+                        </td>
+                        <td width="233px"><a
+                            href="https://www.tokstok.com.br/carrinho-floreira-74-cm-x-37-cm-preto-eucalipto-sow/p"
+                            target="_blank" style="text-decoration: none;width:233px"">
+                            <img src="https://raw.githubusercontent.com/ga-fleury/tokstokcdn/main/carrinhofundo2.png"
+                              alt="carrinho geométrico feito em metal e madeira" border="0"
+                              style="display:block; font-size:1;margin:none;width: 233px;">
+                          </a></td>
+                        <td width="233px"><a
+                            href="https://www.tokstok.com.br/buffet-3-portas-120-m-x-35-cm-preto-nozes-lin/p"
+                            target="_blank" style="text-decoration: none;width:233px"">
+                            <img src="https://raw.githubusercontent.com/ga-fleury/tokstokcdn/main/buffetfundo2.png"
+                              alt="buffet de madeira preto três portas" border="0" 
+                              style="display:block; font-size:1;margin:none;width: 233px;">
+                          </a></td>
+                      </tr>
+                    </table>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="3" align="center" valign="center"><button class="button__cta--med"
+                  style="background-color:#abcae9; color: white;margin-top: 20px;">Ver mais produtos</button></td>
+
+            </tr>
+            <tr>
+              <td colspan="3" style="padding:30px 0px" align="center">
+                <a href="https://www.tokstok.com.br/sofa-2-lugares-couro-nozes-viscount/p" target="_blank"
+                  style="text-decoration: none;">
+                  <h2 style="color:#535435;margin-top:20px;font-weight: bold;" class="aumentar44">Sofá Viscount</h2>
+                  <img src="https://raw.githubusercontent.com/ga-fleury/tokstokcdn/main/viscountsofa.png"
+                    alt="Sofá de couro encerado marrom viscount" border="0" align="absmiddle"
+                    style="display:block; font-size:1;margin:auto;">
+                  <button class="button__cta--med" style="background-color: #535435; color:white; margin-top: 20px;"
+                    class="aumentar44">Saiba mais</button>
+                </a>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="3" style="padding:30px 0px; padding-bottom: 0;" align="center">
+          <h2 class="aumentar32"
+              style="font-weight:400;font-family: Roboto;margin: auto;text-align: center !important; margin: auto;">continue se inspirando:</h2>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table width="100%" border="0" cellpadding="0" cellspacing="0" aria-label="Nova tendência urbano vintage">
+            <a href="https://www.tokstok.com.br/inspire-se/tendencias" target="_blank">
+              <img src="https://raw.githubusercontent.com/ga-fleury/tokstokcdn/main/tendencias3.gif"
+                alt="Sofá de couro encerado marrom viscount" border="0" align="absmiddle"
+                style="display:block; font-size:1;margin:auto;">
+            </a>
+          </table>
+        </td>
+      </tr>
+
+      <!-- /CONTEÚDO-->
+
+      <!-- SUBMENU -->
+      <tr>
+        <td>
+          <table width="100%" cellpadding="0" cellspacing="0"
+            style="border-collapse: collapse; border-top: 1px solid #dcdcdc;">
+            <tbody>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+            <tbody>
+              <tr width="100%" height="auto" align="center">
+                <td width="25%" height="auto"><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDYRY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=6iatsl495p3jvqvd12i18kevhh5f1gopv2efu1rf1sgu6dhangqg"
+                    rilt="ambiente_sala_de_estar" rilc="ambiente_sala_de_estar" target="_blank"><img
+                      class="footer__icon"
+                      src="https://static.cdn.responsys.net/i5/responsysimages/tokstok/contentlibrary/fixo/padrao/categoria-sala-de-estar.png"
+                      width="100%" height="auto" alt="Sala de Estar" border="0" align="absmiddle"
+                      style="max-width: 110px;"></a></td>
+
+                <td width="25%" height="auto"><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDYTY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=b0dojhl2jk3h04mkfvc7hknacn5msnsdv7hjsq0b4viraae34i1g"
+                    rilt="ambiente_quarto" rilc="ambiente_quarto" target="_blank"><img class="footer__icon"
+                      src="https://static.cdn.responsys.net/i5/responsysimages/tokstok/contentlibrary/fixo/padrao/categoria-quarto.png"
+                      width="100%" height="auto" alt="Quarto" border="0" align="absmiddle"
+                      style="max-width: 110px;"></a></td>
+
+                <td width="25%" height="auto"><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDYWY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=d1javargcpt09kun6vpetncif934bcl6f26gf5cqjuks2baauvj0"
+                    rilt="ambiente_sala_de_jantar" rilc="ambiente_sala_de_jantar" target="_blank"><img
+                      class="footer__icon"
+                      src="https://static.cdn.responsys.net/i5/responsysimages/tokstok/contentlibrary/fixo/padrao/categoria-sala-de-jantar.png"
+                      width="100%" height="auto" alt="Sala de Jantar" border="0" align="absmiddle"
+                      style="max-width: 110px;"></a></td>
+
+                <td width="25%" height="auto"><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDYAY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=t4362epi55th8qpmkigk0mrol73jbfqokknbg229bniafdrbva2g"
+                    rilt="ambiente_cozinha" rilc="ambiente_cozinha" target="_blank"><img class="footer__icon"
+                      src="https://static.cdn.responsys.net/i5/responsysimages/tokstok/contentlibrary/fixo/padrao/categoria-cozinha.png"
+                      width="100%" height="auto" alt="Cozinha" border="0" align="absmiddle"
+                      style="max-width: 110px;"></a></td>
+              </tr>
+
+              <tr width="100%" height="auto" align="center">
+                <td width="25%" height="auto"><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDYCY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=9jimlvgv24js6npqca0bl44nbm02phj85r3k8q0263nt24ie9760"
+                    rilt="ambiente_banheiro" rilc="ambiente_banheiro" target="_blank"><img class="footer__icon"
+                      src="https://static.cdn.responsys.net/i5/responsysimages/tokstok/contentlibrary/fixo/padrao/categoria-banheiro.png"
+                      width="100%" height="auto" alt="Banheiro" border="0" align="absmiddle"
+                      style="max-width: 110px;"></a></td>
+
+                <td width="25%" height="auto"><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDARY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=kem5f5cdcg96m0ubrbqseppglebcc7bbkftufkhq683d6pokdrg0"
+                    rilt="ambiente_escritorio" rilc="ambiente_escritorio" target="_blank"><img class="footer__icon"
+                      src="https://static.cdn.responsys.net/i5/responsysimages/tokstok/contentlibrary/fixo/padrao/categoria-escritorio.png"
+                      width="100%" height="auto" alt="Escritorio" border="0" align="absmiddle"
+                      style="max-width: 110px;"></a></td>
+
+                <td width="25%" height="auto"><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDATY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=8aplt8g00k6ku16e39678k5as4q1jj0fgkh8r1mh33shde34eijg"
+                    rilt="ambiente_garden" rilc="ambiente_garden" target="_blank"><img class="footer__icon"
+                      src="https://static.cdn.responsys.net/i5/responsysimages/tokstok/contentlibrary/fixo/padrao/categoria-garden.png"
+                      width="100%" height="auto" alt="Garden" border="0" align="absmiddle"
+                      style="max-width: 110px;"></a></td>
+
+                <td width="25%" height="auto"><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDAWY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=2dbho36qne5kjnn3tp887mantatm2159h7g7al37csrvgkrnocc0"
+                    rilt="ambiente_lavanderia" rilc="ambiente_lavanderia" target="_blank"><img class="footer__icon"
+                      src="https://static.cdn.responsys.net/i5/responsysimages/tokstok/contentlibrary/fixo/padrao/categoria-lavanderia.png"
+                      width="100%" height="auto" alt="Lavanderia" border="0" align="absmiddle"
+                      style="max-width: 110px;"></a></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <table width="100%" cellpadding="0" cellspacing="0"
+            style="border-collapse: collapse; border-bottom: 1px solid #dcdcdc;">
+            <tbody>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+      <!-- /SUBMENU -->
+
+      <!-- FOOTER -->
+      <tr>
+        <td>
+          <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+            <tbody>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <table width="340" border="0" cellpadding="0" cellspacing="20" class="wrapper" align="left">
+            <tbody>
+              <tr align="center">
+                <td><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGnWDpTF3Dtoi3dRq2YXyGneJ29frqpIys8zbnzeIcLAsqt8a3yOLHn74zad1MaXyLJ5M0bVXtpKX%3DSTTRDYWRY&amp;_ei_=Ehk6ZcbGcEnrMjFTkZAoJ-s3MKYQJQh88XxqBr9xhMwyuXUKteMNDVhnezvrDa48Xu4t_hyRCiQCug9jpd7Go_wY4dC4cXkbKC3j7PShtzDCmeHjA5hYUMXL.&amp;_di_=5n5edjhvl24uj2nskisgc22lt6kqs5ikk9a96i45ndlf2aj7p260"
+                    rilt="garantia" rilc="garantia" target="_blank"><img
+                      src="https://static.cdn.responsys.net/i5/responsysimages/tokstok/contentlibrary/fixo/padrao/link-dois-anos-de-garantia.png"
+                      width="70%" height="auto" alt="2 anos de garantia" border="0" align="absmiddle"
+                      style="max-width: 135px;"></a></td>
+
+                <td><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGnWDpTF3Dtoi3dRq2YXyGneJ29frqpIys8zbnzeIcLAsqt8a3yOLHn74zad1MaXyLJ5M0bVXtpKX%3DSTTRDYWTY&amp;_ei_=Ehk6ZcbGcEnrMjFTkZAoJ-s3MKYQJQh88XxqBr9xhMwyuXUKteMNDVhnezvrDa48Xu4t_hyRCiQCug9jpd7Go_wY4dC4cXkbKC3j7PShtzDCmeHjA5hYUMXL.&amp;_di_=s1lmm7v0e9n2ac9iruhka7e0bmc7l3p70p9lgc1k70e7864a6h60"
+                    rilt="entrega" rilc="entrega" target="_blank"><img
+                      src="https://static.cdn.responsys.net/i5/responsysimages/tokstok/contentlibrary/fixo/padrao/link-entrega-agendada.png"
+                      width="75%" height="auto" alt="Entrega agendada" border="0" align="absmiddle"
+                      style="max-width: 145px;"></a></td>
+              </tr>
+            </tbody>
+          </table>
+
+          <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" style="display: none;"
+            class="inteiro">
+            <tbody>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+            </tbody>
+          </table>
+
+          <table width="340" border="0" cellpadding="0" cellspacing="20" class="wrapper" align="left">
+            <tbody>
+              <tr align="center">
+                <td><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDBRY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=0s263v4idu2s72r77trtsfr5p7saiot5hdvfcj8sts8qc9qb7vi0"
+                    rilt="montagem" rilc="montagem" target="_blank"><img
+                      src="https://static.cdn.responsys.net/i5/responsysimages/tokstok/contentlibrary/fixo/padrao/link-servico-de-montagem.png"
+                      width="80%" height="auto" alt="Serviço de montagem" border="0" align="absmiddle"
+                      style="max-width: 145px;"></a></td>
+
+                <td align="center"><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDBTY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=pdvethru48sipbbqksefaslq0cq53krn08tf3l81ibekg1o6onr0"
+                    rilt="parcelamento" rilc="parcelamento" target="_blank"><img
+                      src="https://static.cdn.responsys.net/i5/responsysimages/tokstok/contentlibrary/fixo/padrao/link-parcelamento.png"
+                      width="75%" height="auto" alt="Formas de parcelamento" border="0" align="absmiddle"
+                      style="max-width: 145px;"></a></td>
+              </tr>
+            </tbody>
+          </table>
+
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+            <tbody>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <table width="340" border="0" cellpadding="0" cellspacing="20" class="wrapper" align="left">
+            <tbody>
+              <tr align="center">
+                <td><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDBWY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=bg6hemp91iksi0aa3nncka3qknou7859ialvkf3a6mt7iv5328c0"
+                    rilt="lista_casamento" rilc="lista_casamento" target="_blank"><img
+                      src="https://static.cdn.responsys.net/i5/responsysimages/tokstok/contentlibrary/fixo/padrao/banner-lista-casamento.png"
+                      width="100%" height="auto" alt="Lista de casamento" border="0" align="absmiddle"
+                      style="max-width: 340px;"></a></td>
+              </tr>
+            </tbody>
+          </table>
+
+          <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" style="display: none;"
+            class="inteiro">
+            <tbody>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+            </tbody>
+          </table>
+
+          <table width="340" border="0" cellpadding="0" cellspacing="20" class="wrapper" align="right">
+            <tbody>
+              <tr align="center">
+                <td><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDBAY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=7noj765244fmg3ovp4n2m5o1mof9uf4vq5401qr1cbjbpl7ggku0"
+                    rilt="lojas" rilc="lojas" target="_blank"><img
+                      src="https://static.cdn.responsys.net/i5/responsysimages/tokstok/contentlibrary/fixo/padrao/banner2-nossas-lojas.png"
+                      width="100%" height="auto" alt="Nossas lojas" border="0" style="max-width: 340px;"></a></td>
+              </tr>
+            </tbody>
+          </table>
+
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <table width="100%" cellpadding="0" cellspacing="0"
+            style="border-collapse: collapse; border-bottom: 1px solid #dcdcdc;">
+            <tbody>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+
+
+      <!-- FOOTER -->
+      <tr>
+        <td>
+          <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+            <tbody>
+              <tr width="100%" height="20">
+                <td>&nbsp;</td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+            <tbody>
+              <tr width="100%" height="20">
+                <td align="center">
+                  <font face="sans-serif"
+                    style="font-family: 'Roboto', Arial, 'Helvetica Neue', 'Helvetica', sans-serif; font-size: 13px; font-weight: normal; color: #000000; vertical-align: middle;">
+                    Siga a Tok&amp;Stok</font>
+                </td>
+              </tr>
+              <tr width="100%">
+                <td align="center">&nbsp;</td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+            <tbody>
+              <tr width="100%" height="auto" align="center">
+                <td width="30%" height="auto"></td>
+
+                <td width="11%" height="auto" align="right"><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDBCY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=3f667mb1r8f93gqp4ud4k4v10ndi85q9547gcm8qm68n1fnmut7g"
+                    rilt="instagram" rilc="instagram" target="_blank"><img
+                      src="https://static.cdn.responsys.net/i5/responsysimages/tokstok/contentlibrary/fixo/padrao/instagram@2x.png"
+                      width="30" height="auto" alt="Instagram" border="0" align="absmiddle"
+                      style="max-width: 30px;"></a></td>
+
+                <td width="1%" height="auto"></td>
+
+                <td width="16%" height="auto"><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDCRY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=kiqrape6odl4e42va0tprd6t2h0gl6kn2eicplptnpa3smfomhd0"
+                    rilt="facebook" rilc="facebook" target="_blank"><img
+                      src="https://static.cdn.responsys.net/i5/responsysimages/tokstok/contentlibrary/fixo/padrao/facebook@2x.png"
+                      width="30" height="auto" alt="Facebook" border="0" align="absmiddle" style="max-width: 30px;"></a>
+                </td>
+
+                <td width="1%" height="auto"></td>
+
+                <td width="11%" height="auto" align="left"><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDCTY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=ojceia37njuubn9kd2girver5utukjgi6tg6p0l8v5q92gm7f5hg"
+                    rilt="pinterest" rilc="pinterest" target="_blank"><img
+                      src="https://static.cdn.responsys.net/i5/responsysimages/tokstok/contentlibrary/fixo/padrao/pinterest@2x.png"
+                      width="30" height="auto" alt="Pinterest" border="0" align="absmiddle"
+                      style="max-width: 30px;"></a></td>
+
+                <td width="30%" height="auto"></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <table width="100%" cellpadding="0" cellspacing="0"
+            style="border-collapse: collapse; border-bottom: 1px solid #dcdcdc;">
+            <tbody>
+              <tr width="100%" height="20">
+                <td>&nbsp;</td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+
+      <!-- TELEVENDAS -->
+      <tr>
+        <td>
+          <table width="100%" height="auto" border="0" cellpadding="0" cellspacing="0" align="center">
+            <tbody>
+              <tr width="100%" height="20">
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td width="100%" height="25" valign="center" align="center">
+                  <font face="sans-serif"
+                    style="font-family: 'Roboto', Arial, 'Helvetica Neue', 'Helvetica', sans-serif; font-size: 13px; font-weight: 700;">
+                    Televendas¹</font>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table width="100%" height="auto" border="0" cellpadding="0" cellspacing="0" align="center">
+            <tbody>
+              <tr>
+                <td width="100%" height="auto" align="center">
+                  <a href="tel:1142809144" rilt="atendimento_telefone" rilc="atendimento_telefone"
+                    style="font-family: 'Roboto', Arial, 'Helvetica Neue', 'Helvetica', sans-serif; font-weight: normal; color: #000000; text-decoration: none; cursor: pointer; font-size: 13px;"
+                    target="_blank">(11) 4280 9144</a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <table width="100%" height="auto" border="0" cellpadding="0" cellspacing="0"
+            style="border-collapse: collapse; border-bottom: 1px solid #dcdcdc;">
+            <tbody>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td width="100%" height="auto" valign="center" align="center">
+                  <font face="sans-serif"
+                    style="font-family: 'Roboto', Arial, 'Helvetica Neue', 'Helvetica', sans-serif; font-weight: normal; color: #777777; text-decoration: none; font-size: 11px;">
+                    1. Segunda a sábado 09h às 20h.</font>
+                </td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+
+      <!-- /TELEVENDAS -->
+
+      <!-- ATENDIMENTO -->
+
+      <tr>
+        <td>
+          <table width="100%" height="auto" border="0" cellpadding="0" cellspacing="0" align="center">
+            <tbody>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td width="100%" height="auto" valign="center" align="center">
+                  <font face="sans-serif" style="font-size:13px;"><a
+                      href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDCWY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=hpa0jubtishgj7rohnsqe0362p3pu96jdg9bd5v046mm204k7fh0"
+                      rilt="central_de_duvidas" rilc="central_de_duvidas"
+                      style="font-family: 'Roboto', Arial, 'Helvetica Neue', 'Helvetica', sans-serif; font-weight: normal; color: #0a775a; text-decoration: underline; cursor: pointer; vertical-align: middle;"
+                      target="_blank">Perguntas frequentes</a></font>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <table width="100%" height="auto" border="0" cellpadding="0" cellspacing="0" align="center">
+            <tbody>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td width="100%" height="auto" valign="center" align="center">
+                  <font face="sans-serif" style="font-size:13px;"><a
+                      href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDCAY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=ng7004pq2ni2v3qegvsfhgqi263nmco8v6mgq0hdm9lpqfi1f1tg"
+                      rilt="whatsapp" rilc="whatsapp"
+                      style="font-family: 'Roboto', Arial, 'Helvetica Neue', 'Helvetica', sans-serif; font-weight: bold; color: #0a775a; text-decoration: underline; cursor: pointer; vertical-align: middle;"
+                      target="_blank">Atendimento por mensagem instantânea²</a></font>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <table width="100%" height="auto" border="0" cellpadding="0" cellspacing="0" align="center">
+            <tbody>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td width="100%" height="auto" valign="center" align="center"><a
+                    href="https://i.tokstok.com.br/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGtv1Ean4zaP4zePYsHu1w5pgrR70Evn3zgmpcDzgjBnJhecFzdDKzdpsK51y6VXtpKX%3DSTTRRDCCY&amp;_ei_=Ety2ICG3odHsdc_mgpBkNbg.&amp;_di_=bkqcojs3n5h0je5c0s79kg9jhqqc39uo16etb5hrjt39b6lht520"
+                    rilt="central_atendimento" rilc="central_atendimento"
+                    style="font-family: 'Roboto', Arial, 'Helvetica Neue', 'Helvetica', sans-serif; font-weight: normal; color: #000000; text-decoration: underline; cursor: pointer; font-size: 13px;"
+                    target="_blank">Outros canais de atendimento</a></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <table width="100%" height="auto" cellpadding="0" cellspacing="0"
+            style="border-collapse: collapse; border-bottom: 1px solid #dcdcdc;">
+            <tbody>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td width="100%" height="auto" valign="center" align="center">
+                  <font face="sans-serif"
+                    style="font-family: 'Roboto', Arial, 'Helvetica Neue', 'Helvetica', sans-serif; font-weight: normal; color: #777777; text-decoration: none; font-size: 11px;">
+                    2. Atendimento de segunda a sexta das 8h às 18h</font>
+                </td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+
+      <!-- /ATENDIMENTO -->
+
+      <!-- DISCLAIMER -->
+
+      <tr>
+        <td>
+          <table width="100%" height="auto" border="0" cellpadding="0" cellspacing="0" align="center"
+            style="background-color: #ffffff;">
+            <tbody>
+              <tr width="100%" height="auto">
+                <td>&nbsp;</td>
+              </tr>
+
+              <tr align="left">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  </td>
+  </tr>
+
+  <!-- /DISCLAIMER -->
+  <!-- /FOOTER -->
+  </tbody>
+  </table>
+
+</body>
+
+</html>
